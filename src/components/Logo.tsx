@@ -8,7 +8,7 @@ export default function Logo({ sx }: BoxProps) {
       <Box
         component="img"
         alt="Adflix Logo"
-        src="https://github.com/darrinlallen/netflix-clone-react-typescript/blob/main/public/download.jpg"
+        src="https://adflixroc.com/wp-content/uploads/AdFlix_4c_w-2048x596.png"
         width={87}
         height={25}
         sx={{
