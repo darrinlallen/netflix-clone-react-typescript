@@ -7,8 +7,8 @@ export default function Logo({ sx }: BoxProps) {
     <RouterLink to={`/${MAIN_PATH.browse}`}>
       <Box
         component="img"
-        alt="Netflix Logo"
-        src="/assets/download.jpg"
+        alt="Adflix Logo"
+        src="https://github.com/darrinlallen/netflix-clone-react-typescript/blob/main/public/download.jpg"
         width={87}
         height={25}
         sx={{
