@@ -23,7 +23,7 @@ export default function Footer() {
         }}
       >
         <Typography color="grey.700" variant="h6" component="span">
-          Developed by{" "}
+          Developed by Darrin Allen
           <Link
             target="_blank"
             underline="none"
