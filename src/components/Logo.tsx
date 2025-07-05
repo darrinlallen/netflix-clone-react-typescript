@@ -9,8 +9,8 @@ export default function Logo({ sx }: BoxProps) {
         component="img"
         alt="Adflix Logo"
         src="https://adflixroc.com/wp-content/uploads/AdFlix_4c_w-2048x596.png"
-        width={87}
-        height={25}
+        width={147}
+        height={65}
         sx={{
           ...sx,
         }}
